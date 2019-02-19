@@ -1,4 +1,4 @@
-![avatar](https://www.processon.com/view/link/5c6c322ee4b0f0908a99af86)
+![avatar](http://assets.processon.com/chart_image/5c6c322ee4b03334b521d8e3.png)
 
 ### ~
 - 本项目仓库仅仅用于记录学习过程和技术讨论
