@@ -1,5 +1,6 @@
 ### ~
 - 本项目仓库仅仅用于记录学习过程和技术讨论
+- 如何自动扫码登陆的问题：https://github.com/chinaltx/QIANGGUO/issues/22，请求各位大佬前往只招
 
 ### 目前能用的程序：
 - 一个简单的shell脚本，可以定时调用scrapy_news.py维护数据库
